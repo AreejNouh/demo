@@ -1,14 +1,102 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "Doctors": [
+        {
+            "id": 6,
+            "name": "ahmad",
+            "specialty": "Doctor",
+            "mobile": "0599965554",
+            "location": "Rawabi - 13 building",
+            "city": "Ramallah",
+            "email": "a@gmail.com",
+            "created_at": "-0001-11-30 00:00:00",
+            "updated_at": "-0001-11-30 00:00:00",
+            "password": ""
+        },
+        {
+            "id": 7,
+            "name": "hala",
+            "specialty": "doctor eyes",
+            "mobile": "059999999",
+            "location": "palestine",
+            "city": "anata",
+            "email": "h@gmail.com",
+            "created_at": "-0001-11-30 00:00:00",
+            "updated_at": "-0001-11-30 00:00:00",
+            "password": ""
+        },
+        {
+            "id": 8,
+            "name": "ahmad",
+            "specialty": "ahmad",
+            "mobile": "0599965554",
+            "location": "palestine",
+            "city": "Ramallah",
+            "email": "aa@gmail.com",
+            "created_at": "-0001-11-30 00:00:00",
+            "updated_at": "-0001-11-30 00:00:00",
+            "password": ""
+        },
+        {
+            "id": 13,
+            "name": "testtt",
+            "specialty": "eyes",
+            "mobile": "0599965554",
+            "location": "Ramallah",
+            "city": "Palestine",
+            "email": "ay@gmail.com",
+            "created_at": "-0001-11-30 00:00:00",
+            "updated_at": "-0001-11-30 00:00:00",
+            "password": ""
+        },
+        {
+            "id": 14,
+            "name": "testt2t",
+            "specialty": "eyes",
+            "mobile": "0599965554",
+            "location": "Ramallah",
+            "city": "Nablus",
+            "email": "Nablus@gmail.com",
+            "created_at": "2018-03-30 21:10:10",
+            "updated_at": "2018-03-30 21:10:10",
+            "password": ""
+        },
+        {
+            "id": 15,
+            "name": "testt2t",
+            "specialty": "eyes",
+            "mobile": "0599965554",
+            "location": "Ramallah",
+            "city": "Nablus",
+            "email": "Nablus2@gmail.com",
+            "created_at": "2018-03-30 21:15:16",
+            "updated_at": "2018-03-30 21:15:16",
+            "password": ""
+        },
+        {
+            "id": 16,
+            "name": "doctorName",
+            "specialty": "eyes",
+            "mobile": "059999999",
+            "location": "Ramallah",
+            "city": "Ramallah",
+            "email": "ahmadikhalaf93@gmail.com",
+            "created_at": "2018-04-07 15:01:17",
+            "updated_at": "2018-04-07 15:01:17",
+            "password": ""
+        },
+        {
+            "id": 18,
+            "name": "doctorName",
+            "specialty": "eyes",
+            "mobile": "059999999",
+            "location": "Ramallah",
+            "city": "Ramallah",
+            "email": "ahkhalsaf@asaltech.com",
+            "created_at": "2018-04-08 21:25:53",
+            "updated_at": "2018-04-08 21:25:53",
+            "password": "$2y$10$AnUrNTVKZCgs9GhvJiFA8Oi4GzO6DO9LZ7hdo9WtOhhNIQpbFUvA."
+        }
+    ],
+    "Message": "List Of Doctors",
+    "success": true
 }
