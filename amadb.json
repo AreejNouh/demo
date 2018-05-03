@@ -1,110 +1,110 @@
 {
 Symptoms: [
-{
-id: 12,
-diseas_id: 106,
-symptoms: "fever",
-description: "increase in body temp",
-updated_at: "2018-05-01 18:52:06",
-created_at: "2018-05-01 18:52:06"
-},
-{
-id: 13,
-diseas_id: 106,
-symptoms: "cough",
-description: "this symptoms from the flu virus",
-updated_at: "2018-05-01 18:53:43",
-created_at: "2018-05-01 18:53:43"
-},
-{
-id: 14,
-diseas_id: 107,
-symptoms: "Back pain",
-description: "pain",
-updated_at: "2018-05-01 18:57:44",
-created_at: "2018-05-01 18:57:44"
-},
-{
-id: 15,
-diseas_id: 107,
-symptoms: "Deep, constant pain in your abdomen or on the side of your abdomen",
-description: "constant pain in your abdomen or on the side of your abdomen",
-updated_at: "2018-05-01 18:58:46",
-created_at: "2018-05-01 18:58:46"
-},
-{
-id: 16,
-diseas_id: 107,
-symptoms: "A pulsating feeling near the navel",
-description: "plusting",
-updated_at: "2018-05-01 18:59:19",
-created_at: "2018-05-01 18:59:19"
-},
-{
-id: 17,
-diseas_id: 108,
-symptoms: "Sudden stop in motion without falling",
-description: "stop in motion",
-updated_at: "2018-05-01 19:02:42",
-created_at: "2018-05-01 19:02:42"
-},
-{
-id: 18,
-diseas_id: 108,
-symptoms: "Lip smacking",
-description: "lip smacking",
-updated_at: "2018-05-01 19:03:14",
-created_at: "2018-05-01 19:03:14"
-},
-{
-id: 19,
-diseas_id: 108,
-symptoms: "Eyelid flutters",
-description: "though it may last as long as 20 seconds, without any confusion",
-updated_at: "2018-05-01 19:04:33",
-created_at: "2018-05-01 19:04:33"
-},
-{
-id: 20,
-diseas_id: 108,
-symptoms: "Chewing motions",
-description: "mistaken for a lapse in attention that lasts about 10 seconds",
-updated_at: "2018-05-01 19:05:35",
-created_at: "2018-05-01 19:05:35"
-},
-{
-id: 21,
-diseas_id: 108,
-symptoms: "Small movements of both hands",
-description: "small movment",
-updated_at: "2018-05-01 19:07:52",
-created_at: "2018-05-01 19:07:52"
-},
-{
-id: 22,
-diseas_id: 109,
-symptoms: "mall red or white bumps on a baby's cheeks",
-description: "red cheeks",
-updated_at: "2018-05-01 19:10:46",
-created_at: "2018-05-01 19:10:46"
-},
-{
-id: 23,
-diseas_id: 109,
-symptoms: "mall red or white bumps on a baby's cheeks",
-description: "mall red or white bumps on a baby's cheeks",
-updated_at: "2018-05-01 19:11:39",
-created_at: "2018-05-01 19:11:39"
-},
-{
-id: 24,
-diseas_id: 110,
-symptoms: "Mild swelling",
-description: "Mild swelling",
-updated_at: "2018-05-01 19:14:09",
-created_at: "2018-05-01 19:14:09"
-}
-],
-Message: "List Of Symptoms",
-success: true
-}
+  {
+     id: 12,
+    diseas_id: 106,
+    symptoms: "fever",
+    description: "increase in body temp",
+    updated_at: "2018-05-01 18:52:06",
+    created_at: "2018-05-01 18:52:06"
+  },
+  {
+    id: 13,
+    diseas_id: 106,
+    symptoms: "cough",
+    description: "this symptoms from the flu virus",
+    updated_at: "2018-05-01 18:53:43",
+    created_at: "2018-05-01 18:53:43"
+   },
+   {
+    id: 14,
+    diseas_id: 107,
+    symptoms: "Back pain",
+    description: "pain",
+    updated_at: "2018-05-01 18:57:44",
+    created_at: "2018-05-01 18:57:44"
+   },
+  {
+  id: 15,
+  diseas_id: 107,
+  symptoms: "Deep, constant pain in your abdomen or on the side of your abdomen",
+  description: "constant pain in your abdomen or on the side of your abdomen",
+  updated_at: "2018-05-01 18:58:46",
+  created_at: "2018-05-01 18:58:46"
+  },
+  {
+  id: 16,
+  diseas_id: 107,
+  symptoms: "A pulsating feeling near the navel",
+  description: "plusting",
+  updated_at: "2018-05-01 18:59:19",
+  created_at: "2018-05-01 18:59:19"
+  },
+  {
+  id: 17,
+  diseas_id: 108,
+  symptoms: "Sudden stop in motion without falling",
+  description: "stop in motion",
+  updated_at: "2018-05-01 19:02:42",
+  created_at: "2018-05-01 19:02:42"
+  },
+  {
+  id: 18,
+  diseas_id: 108,
+  symptoms: "Lip smacking",
+  description: "lip smacking",
+  updated_at: "2018-05-01 19:03:14",
+  created_at: "2018-05-01 19:03:14"
+  },
+  {
+  id: 19,
+  diseas_id: 108,
+  symptoms: "Eyelid flutters",
+  description: "though it may last as long as 20 seconds, without any confusion",
+  updated_at: "2018-05-01 19:04:33",
+  created_at: "2018-05-01 19:04:33"
+  },
+  {
+  id: 20,
+  diseas_id: 108,
+  symptoms: "Chewing motions",
+  description: "mistaken for a lapse in attention that lasts about 10 seconds",
+  updated_at: "2018-05-01 19:05:35",
+  created_at: "2018-05-01 19:05:35"
+  },
+  {
+  id: 21,
+  diseas_id: 108,
+  symptoms: "Small movements of both hands",
+  description: "small movment",
+  updated_at: "2018-05-01 19:07:52",
+  created_at: "2018-05-01 19:07:52"
+  },
+  {
+  id: 22,
+  diseas_id: 109,
+  symptoms: "mall red or white bumps on a baby's cheeks",
+  description: "red cheeks",
+  updated_at: "2018-05-01 19:10:46",
+  created_at: "2018-05-01 19:10:46"
+  },
+  {
+  id: 23,
+  diseas_id: 109,
+  symptoms: "mall red or white bumps on a baby's cheeks",
+  description: "mall red or white bumps on a baby's cheeks",
+  updated_at: "2018-05-01 19:11:39",
+  created_at: "2018-05-01 19:11:39"
+  },
+  {
+  id: 24,
+  diseas_id: 110,
+  symptoms: "Mild swelling",
+  description: "Mild swelling",
+  updated_at: "2018-05-01 19:14:09",
+  created_at: "2018-05-01 19:14:09"
+  }
+  ],
+  Message: "List Of Symptoms",
+  success: true
+  } 
